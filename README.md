@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi I'm Aarav Sharma
 
-<!--
-**AaravSharma07-creator/AaravSharma07-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech CSE student I specialize in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+My registration number is 25BAI10617.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Aarav Sharma
+
+* I am really passionate about Artificial Intelligence and Machine Learning I love learning things about Artificial Intelligence and Machine Learning.
+
+* I enjoy working on coding and projects I try to solve real-world problems with coding and projects.
+
+* Now I am learning Data Structures, Machine Learning and Python I find them really interesting.
+
+* I am taking my time to explore technologies and build my skills step by step I am excited, about my progress.
+
+# Tech Stack of Aarav Sharma
+
+* I know Python, C and Java I use them for my projects.
+
+* I have an understanding of Data Structures and Algorithms I practice them regularly.
+
+* My main areas of interest are Machine Learning and Artificial Intelligence I read about Machine Learning and Artificial Intelligence every day.
+
+* My favorite tools are Git, GitHub and VS Code I use them to manage my projects.
+
+# Currently Working On
+
+* I am working on some Machine Learning projects I am trying to apply Artificial Intelligence and Machine Learning to real-world problems.
+
+* My goal is to improve my problem-solving skills I practice coding and solving problems every day.
+
+* I am building my GitHub profile Aarav Sharma is my username I want to showcase my projects and skills.
